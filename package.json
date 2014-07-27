@@ -5,7 +5,7 @@
   "main": "./lib/gonode.js",
   "scripts": {
     "test": "nodeunit test",
-    "install": "go get github.com/jgranstrom/gonodepkg github.com/jgranstrom/go-simplejson"
+    "install": "go get github.com/collinglass/gonodepkg github.com/jgranstrom/go-simplejson"
   },
   "repository": {
     "type": "git",
